@@ -14,10 +14,10 @@
         echo "<p>VK | Vkontakte: @amirismagilov</p>";
         echo "<p><a href='helloshop.herokuapp.com'>helloshop.herokuapp.com</a></p>";
         echo "<h3>Sha 1 Sum</h3>";
-        echo "<p>013fecbdacf7b09a9a8ca41472efd7fb5cb1ea98</p>";
-        echo "<p>ce022b63ad00c614803afb41696e859f95d17afe</p>";
-        echo "<p>bc770b5225d82f43f4ffdb2eb60675c29fca4794</p>";
-        echo "<p>1ab29cf74bab9257afddb3d3573f77b49987809a</p>";
+        echo "<p>013fecbdacf7b09a9a8ca41472efd7fb5cb1ea98(sha-1)</p>";
+        echo "<p>ce022b63ad00c614803afb41696e859f95d17afe(sha-1)</p>";
+        echo "<p>bc770b5225d82f43f4ffdb2eb60675c29fca4794(sha-1)</p>";
+        echo "<p>1ab29cf74bab9257afddb3d3573f77b49987809a(sha-1)</p>";
      ?>
 </body>
 
