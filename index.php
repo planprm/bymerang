@@ -18,13 +18,13 @@
         echo "<p>Знаю C/C++, python, php, html, css, javascript, C#.</p>";
         echo "<p>Умею писать bash-скрипты, bacth-файлы.</p>";
         echo "<p>К примеру bash-скрипт, Вас удивит:</p>";
-        print_r("<p>
-              echo Hello, World!
-              echo echo Hello,World!
-              echo $ACCUMULATOR
-              echo $$
-              echo $MATCH
-        </p>");
+        echo "<p>";
+        echo "echo Hello, World!</br>";
+        echo "echo echo Hello,World!</br>";
+        echo "echo $ACCUMULATOR</br>";
+        echo "echo $$</br>";
+        echo  "echo $MATCH</br>";
+        echo "</p>";
         echo "<h3>Contacts</h3>";
         echo "<p>email: progamailism@yandex.ru</p>";
         echo "<p>Facebook: @ismagilovamir</p>";
