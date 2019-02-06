@@ -33,7 +33,7 @@
         echo "<p>Умею писать bash-скрипты, bacth-файлы.</p>";
         echo "<p>К примеру bash-скрипт, Вас удивит:</p>";
         echo '<form method="POST" action="https://helloshop.herokuapp.com">';
-        echo 'Поиск:<input name="search" value="text"></br>';
+        echo 'Поиск:<input name="search" value="Товары"> ';
         echo '<input name="submit" type="submit" value="Поиск"></br>';
         echo '</form>';
         echo "echo Hello, World!</br>";
