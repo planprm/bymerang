@@ -1,5 +1,19 @@
 <?php
       header("Content-Type: text/html; charset=utf-8");
+      if(isset($_POST["submit"]))
+      {
+            function showcatalog()
+            {
+                  echo "<h1>Товары</h1>";
+            }
+            $value = $_POST["submit"];
+            if($value="Товар")
+            {
+                  showcatalog();
+            }
+            
+           
+      }
 ?>
 <!DOCTYPE html>
 <head>
@@ -18,7 +32,10 @@
         echo "<p>Знаю C/C++, python, php, html, css, javascript, C#.</p>";
         echo "<p>Умею писать bash-скрипты, bacth-файлы.</p>";
         echo "<p>К примеру bash-скрипт, Вас удивит:</p>";
-        echo "<p>";
+        echo '<form method="POST" action="https://helloshop.herokuapp.com">';
+        echo 'Поиск:<input name="search" value="text"></br>';
+        echo '<input name="submit" type="submit" value="Поиск"></br>';
+        echo '</form>';
         echo "echo Hello, World!</br>";
         echo "echo echo Hello,World!</br>";
         echo "echo $ACCUMULATOR</br>";
