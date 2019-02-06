@@ -1,3 +1,6 @@
+<?php
+      header("Content-Type: text/html; charset=utf-8");
+?>
 <!DOCTYPE html>
 <head>
    <meta charset="utf-8"/>
@@ -7,6 +10,11 @@
     <?php 
         echo "<h1>Hello Shop!</h1>";
         echo "<p>I'm Ismagilov Amir Zakirovich Student USATU using Heroku with Github!</p>";
+        echo "<p>Я Исмагилов Амир Закирович Студент УГАТУ ФИРТ Программная Инженерия ПРО-403</p>";
+        echo "<p>О себе:</p>";
+        echo "<p>Знаю Интернет-Технологии: php, python django, python flask, apache, mysql, html, css</p>";
+        echo "<p>Ищу подработку, ищу удаленную работу.</p>";
+        echo "<p>Имею шифровать sha-1</p>";
         echo "<h3>Contacts</h3>";
         echo "<p>email: progamailism@yandex.ru</p>";
         echo "<p>Facebook: @ismagilovamir</p>";
