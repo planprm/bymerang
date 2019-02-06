@@ -14,8 +14,9 @@
         echo "<p>О себе:</p>";
         echo "<p>Знаю Интернет-Технологии: php, python django, python flask, apache, mysql, html, css</p>";
         echo "<p>Ищу подработку, ищу удаленную работу.</p>";
-        echo "<p>Имею шифровать sha-1</p>";
-        echo "<p>Знаю C/C++, python, php, html, css, javascript, C#</p>";
+        echo "<p>Умею шифровать sha-1.</p>";
+        echo "<p>Знаю C/C++, python, php, html, css, javascript, C#.</p>";
+        echo "<p>Умею писать bash-скрипты, bacth-файлы.</p>";
         echo "<h3>Contacts</h3>";
         echo "<p>email: progamailism@yandex.ru</p>";
         echo "<p>Facebook: @ismagilovamir</p>";
