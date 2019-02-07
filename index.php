@@ -46,6 +46,8 @@
         echo  "echo $MATCH</br>";
         echo "</p>";
         echo "<p>145.255.3.111</p>";
+        echo "https://helloshop.herokuapp.com/";
+        echo "https//snoocppy.github.io/";
         echo "<h3>Contacts</h3>";
         echo "<p>email: progamailism@yandex.ru</p>";
         echo "<p>Facebook: @ismagilovamir</p>";
