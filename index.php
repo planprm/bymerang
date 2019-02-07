@@ -17,6 +17,8 @@
 ?>
 <!DOCTYPE html>
 <head>
+      <title>HelloShop - @amirismagilov @ismagilovamir @AmirIsmagilov Исмагилов А.З., Обо мне, Студент УГАТУ</title>
+      <meta name="description" content="HelloShop - @amirismagilov @ismagilovamir @AmirIsmagilov Исмагилов А.З., Обо мне, Студент УГАТУ">
    <meta charset="utf-8"/>
 </head>
 
