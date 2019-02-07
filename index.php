@@ -19,7 +19,8 @@
 <head>
       <title>HelloShop - @amirismagilov @ismagilovamir @AmirIsmagilov Исмагилов А.З., Обо мне, Студент УГАТУ</title>
       <meta name="description" content="HelloShop - @amirismagilov @ismagilovamir @AmirIsmagilov Исмагилов А.З., Обо мне, Студент УГАТУ">
-   <meta charset="utf-8"/>
+      <meta name="yandex-verification" content="5f5efc0dde0f0423" />
+      <meta charset="utf-8"/>
 </head>
 
 <body>
