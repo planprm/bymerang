@@ -26,6 +26,9 @@
 </head>
 
 <body>
+    <h1>Поиск по элементам</h1></br>
+    <input name="searchelements" text"/>
+    
     <?php 
         echo "<h1>Hello Shop!</h1>";
         echo "<p>I'm Ismagilov Amir Zakirovich Student USATU using Heroku with Github!</p>";
